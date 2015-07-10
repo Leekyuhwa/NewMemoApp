@@ -16,9 +16,6 @@ import java.util.List;
 
 import butterknife.OnClick;
 
-/**
- * Created by coupang on 2015. 7. 1..
- */
 public class MemoListAdapter extends RecyclerView.Adapter<MemoHolder> {
 
 	private Context context;

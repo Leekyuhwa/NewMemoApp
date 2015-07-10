@@ -1,8 +1,5 @@
 package com.memo.studygroup.newmemoapp.vo;
 
-/**
- * Created by coupang on 2015. 7. 1..
- */
 public class MemoVO {
 
     private int id;

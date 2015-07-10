@@ -17,9 +17,6 @@ import butterknife.ButterKnife;
 import butterknife.InjectView;
 import butterknife.OnClick;
 
-/**
- * Created by coupang on 2015. 7. 1..
- */
 public class MemoActivity extends AppCompatActivity {
 
     @InjectView(R.id.memo_edittext)

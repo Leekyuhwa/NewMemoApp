@@ -11,9 +11,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import com.memo.studygroup.newmemoapp.vo.MemoVO;
 
-/**
- * Created by coupang on 2015. 6. 25..
- */
 public class DataBaseHandler extends SQLiteOpenHelper implements CRUDOperations {
 
     private static final int DATABASE_VERSION = 1;

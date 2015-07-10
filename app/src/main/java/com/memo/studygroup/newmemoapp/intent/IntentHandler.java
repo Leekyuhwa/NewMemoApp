@@ -7,9 +7,6 @@ import com.memo.studygroup.newmemoapp.activity.MainActivity;
 import com.memo.studygroup.newmemoapp.activity.MemoActivity;
 import com.memo.studygroup.newmemoapp.vo.MemoVO;
 
-/**
- * Created by coupang on 2015. 7. 1..
- */
 public class IntentHandler {
 
     public static final String KEY_ID = "id";

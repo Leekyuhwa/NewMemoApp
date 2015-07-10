@@ -8,9 +8,6 @@ import android.widget.TextView;
 
 import com.memo.studygroup.newmemoapp.R;
 
-/**
- * Created by coupang on 2015. 7. 1..
- */
 public class MemoHolder extends RecyclerView.ViewHolder {
 
     public TextView idTextView;

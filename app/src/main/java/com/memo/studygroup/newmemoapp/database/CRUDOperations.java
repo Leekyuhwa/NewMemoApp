@@ -4,9 +4,6 @@ import com.memo.studygroup.newmemoapp.vo.MemoVO;
 
 import java.util.List;
 
-/**
- * Created by coupang on 2015. 6. 25..
- */
 public interface CRUDOperations {
     public void insert(MemoVO memoVO);
     public void update(MemoVO memoVO);

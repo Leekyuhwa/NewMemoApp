@@ -3,9 +3,6 @@ package com.memo.studygroup.newmemoapp.listener;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-/**
- * Created by coupang on 2015. 7. 2..
- */
 public abstract class HidingScrollListener extends RecyclerView.OnScrollListener {
 
     private static final int HIDE_THRESHOLD = 20;
